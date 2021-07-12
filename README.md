@@ -40,6 +40,11 @@ Projects used in the making:
 * [xdcc-dl](https://github.com/namboy94/xdcc-dl)
 * [xdccget](https://github.com/RhythmLunatic/xdccget)
 
+Others:
+
+* Font used in logo: [Gang Of Three](https://www.dafont.com/gang-of-three.font)
+* Software used: [GIMP](https://www.gimp.org/)
+
 ## Disclaimer
 These notebooks have been developed only for educational purposes. They're not intended to exploit the free [resources](https://research.google.com/colaboratory/faq.html#resource-limits) provided by Google.  
 They **DO NOT** require GPU/TPU runtime, please don't use them. There might be someone out there who would like to utilize these resources for their project/research!
