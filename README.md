@@ -20,7 +20,7 @@ Look at the [Wiki](https://github.com/hyPnOtICDo0g/Otakulab/wiki), B-Baka! (>_<)
 
 If you want to see a new feature, feel free to open an [issue](https://github.com/hyPnOtICDo0g/Otakulab/issues). Here are some notebook(s) that I plan to develop sometime soon.
 
-* Fansub-utils: This is aimed to do quick operations on the video files stored on your google drive. Features planned are as follows:
+* Fansub-utils: This is aimed to do quick operations on the media files stored on your google drive. Features planned are as follows:
 
     * Basic ffmpeg & mkvtoolnix usage, which includes muxing, audio encoding, dub purging & frame (screenshot), subtitles, fonts & chapters extraction.
     * CRC32 check.
