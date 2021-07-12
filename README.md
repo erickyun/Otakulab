@@ -25,6 +25,7 @@ If you want to see a new feature, feel free to open an [issue](https://github.co
     * Basic ffmpeg & mkvtoolnix usage, which includes muxing, audio encoding, dub purging & frame (screenshot), subtitles, fonts & chapters extraction.
     * CRC32 check.
     * `mediainfo` for the files stored on google drive.
+> Note: These features still don't require a GPU runtime.    
 
 ## Credits
 Projects used in the making: 
